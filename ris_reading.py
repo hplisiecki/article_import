@@ -2,13 +2,21 @@ from selenium.webdriver.firefox.service import Service as FirefoxService
 from webdriver_manager.firefox import GeckoDriverManager
 from selenium import webdriver
 import pandas as pd
-import os
 import time
 import os
 import glob
-from tqdm import tqdm
 from selenium.webdriver.common.by import By
 import shutil
+
+import re
+
+def sanitize_filename(filename):
+    # Remove invalid characters
+    s = re.sub(r'[\/:*?"<>|]', '_', filename)
+    # Truncate long filenames
+    max_length = 240  # Change as needed; 240 allows for file extension and some path on most file systems
+    return s[:max_length]
+
 
 def read_ris(path):
     # open as txt file
@@ -21,7 +29,7 @@ def read_ris(path):
     # remove "DO  - "
     doi_rows = [row[6:] for row in doi_rows]
     title_rows = [row for row in rows if row.startswith('TI  - ')]
-    title_rows = [row[6:] for row in title_rows]
+    title_rows = [sanitize_filename(row[6:].strip()) for row in title_rows]
 
     doi_title_tuples = [(doi, title) for doi, title in zip(doi_rows, title_rows)]
 
@@ -62,7 +70,6 @@ def process_dois(doi_title_tuples, destination_path, downloads_url):
         else:
             counter += 1
 
-            name = str(id)
             url = 'https://sci-hub.se/' + doi
             driver.get(url)
             time.sleep(2)
@@ -72,7 +79,14 @@ def process_dois(doi_title_tuples, destination_path, downloads_url):
             try:
                 button = driver.find_element(By.XPATH, '//button[text()="↓ save"]')
                 button.click()
+                # Switch to the new tab
+                driver.switch_to.window(driver.window_handles[1])
                 time.sleep(2)
+                # Close the new tab
+                driver.close()
+                driver.switch_to.window(driver.window_handles[0])
+
+
                 # list all files in the directory
                 files = glob.glob(os.path.join(downloads_url, "*"))
 
@@ -82,6 +96,7 @@ def process_dois(doi_title_tuples, destination_path, downloads_url):
                 # move the file to the save path
                 shutil.move(latest_file, os.path.join(destination_path, title + '.pdf'))
             except:
+                print("Could not download: " + title)
                 continue
 
     files = os.listdir(destination_path)
