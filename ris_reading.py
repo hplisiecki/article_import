@@ -100,12 +100,12 @@ def process_dois(doi_title_tuples, destination_path, downloads_url):
                 continue
 
     files = os.listdir(destination_path)
-    downloaded_successfully = [True if title + '.pdf' in files else False for (doi, title) in zip(doi_title_tuples)]
+    downloaded_successfully = [True if title + '.pdf' in files else False for (doi, title) in doi_title_tuples]
 
 
     # to pandas
-    df = pd.DataFrame({'doi': [doi for (doi, title) in zip(doi_title_tuples)],
-                       'title': [title for (doi, title) in zip(doi_title_tuples)],
+    df = pd.DataFrame({'doi': [doi for (doi, title) in doi_title_tuples],
+                       'title': [title for (doi, title) in doi_title_tuples],
                        'downloaded_successfully': downloaded_successfully})
     # save
     df.to_csv(os.path.join(destination_path, 'downloaded_successfully.csv'), index=False)

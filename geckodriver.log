@@ -845,3 +845,145 @@ _pageHide@resource://pdf.js/web/viewer.js:6340:12
 
 [Parent 8652, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
 [GPU 19612, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+JavaScript warning: resource://pdf.js/web/viewer.js, line 6245: Script terminated by timeout at:
+_updateInternalState@resource://pdf.js/web/viewer.js:6245:3
+_pushOrReplaceState@resource://pdf.js/web/viewer.js:6159:10
+_tryPushCurrentPosition@resource://pdf.js/web/viewer.js:6187:12
+_pageHide@resource://pdf.js/web/viewer.js:6340:12
+
+[Parent 8652, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19612, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+JavaScript warning: resource://pdf.js/web/viewer.js, line 6245: Script terminated by timeout at:
+_updateInternalState@resource://pdf.js/web/viewer.js:6245:3
+_pushOrReplaceState@resource://pdf.js/web/viewer.js:6159:10
+_tryPushCurrentPosition@resource://pdf.js/web/viewer.js:6187:12
+_pageHide@resource://pdf.js/web/viewer.js:6340:12
+
+[Parent 8652, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19612, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+JavaScript warning: resource://pdf.js/web/viewer.js, line 6245: Script terminated by timeout at:
+_updateInternalState@resource://pdf.js/web/viewer.js:6245:3
+_pushOrReplaceState@resource://pdf.js/web/viewer.js:6159:10
+_tryPushCurrentPosition@resource://pdf.js/web/viewer.js:6187:12
+_pageHide@resource://pdf.js/web/viewer.js:6340:12
+
+[Parent 8652, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19612, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+JavaScript warning: resource://pdf.js/web/viewer.js, line 6245: Script terminated by timeout at:
+_updateInternalState@resource://pdf.js/web/viewer.js:6245:3
+_pushOrReplaceState@resource://pdf.js/web/viewer.js:6159:10
+_tryPushCurrentPosition@resource://pdf.js/web/viewer.js:6187:12
+_pageHide@resource://pdf.js/web/viewer.js:6340:12
+
+[Parent 8652, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19612, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+JavaScript warning: resource://pdf.js/web/viewer.js, line 6245: Script terminated by timeout at:
+_updateInternalState@resource://pdf.js/web/viewer.js:6245:3
+_pushOrReplaceState@resource://pdf.js/web/viewer.js:6159:10
+_tryPushCurrentPosition@resource://pdf.js/web/viewer.js:6187:12
+_pageHide@resource://pdf.js/web/viewer.js:6340:12
+
+[Parent 8652, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19612, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+JavaScript warning: resource://pdf.js/web/viewer.js, line 6245: Script terminated by timeout at:
+_updateInternalState@resource://pdf.js/web/viewer.js:6245:3
+_pushOrReplaceState@resource://pdf.js/web/viewer.js:6159:10
+_tryPushCurrentPosition@resource://pdf.js/web/viewer.js:6187:12
+_pageHide@resource://pdf.js/web/viewer.js:6340:12
+
+[Parent 8652, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19612, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+JavaScript warning: resource://pdf.js/web/viewer.js, line 6245: Script terminated by timeout at:
+_updateInternalState@resource://pdf.js/web/viewer.js:6245:3
+_pushOrReplaceState@resource://pdf.js/web/viewer.js:6159:10
+_tryPushCurrentPosition@resource://pdf.js/web/viewer.js:6187:12
+_pageHide@resource://pdf.js/web/viewer.js:6340:12
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+JavaScript warning: resource://pdf.js/web/viewer.js, line 6245: Script terminated by timeout at:
+_updateInternalState@resource://pdf.js/web/viewer.js:6245:3
+_pushOrReplaceState@resource://pdf.js/web/viewer.js:6159:10
+_tryPushCurrentPosition@resource://pdf.js/web/viewer.js:6187:12
+_pageHide@resource://pdf.js/web/viewer.js:6340:12
+
+[Parent 8652, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19612, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+JavaScript warning: resource://pdf.js/web/viewer.js, line 6245: Script terminated by timeout at:
+_updateInternalState@resource://pdf.js/web/viewer.js:6245:3
+_pushOrReplaceState@resource://pdf.js/web/viewer.js:6159:10
+_tryPushCurrentPosition@resource://pdf.js/web/viewer.js:6187:12
+_pageHide@resource://pdf.js/web/viewer.js:6340:12
+
+[Parent 8652, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19612, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+JavaScript warning: resource://pdf.js/web/viewer.js, line 6245: Script terminated by timeout at:
+_updateInternalState@resource://pdf.js/web/viewer.js:6245:3
+_pushOrReplaceState@resource://pdf.js/web/viewer.js:6159:10
+_tryPushCurrentPosition@resource://pdf.js/web/viewer.js:6187:12
+_pageHide@resource://pdf.js/web/viewer.js:6340:12
+
+[Parent 8652, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19612, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+JavaScript warning: resource://pdf.js/web/viewer.js, line 6245: Script terminated by timeout at:
+_updateInternalState@resource://pdf.js/web/viewer.js:6245:3
+_pushOrReplaceState@resource://pdf.js/web/viewer.js:6159:10
+_tryPushCurrentPosition@resource://pdf.js/web/viewer.js:6187:12
+_pageHide@resource://pdf.js/web/viewer.js:6340:12
+
+[Parent 8652, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 19612, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692285377289	geckodriver	INFO	Listening on 127.0.0.1:56996
+1692285380335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "56997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hplis\\AppData\\Local\\Temp\\rust_mozprofilekpuTPr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692285380751	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692285380842	Marionette	INFO	Listening on port 57005
+WebDriver BiDi listening on ws://127.0.0.1:56997
+Read port: 57005
+1692285381060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56997/devtools/browser/22840566-2589-4b73-b1dc-211222f897dc
+[Parent 14460, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 35956, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692285509639	geckodriver	INFO	Listening on 127.0.0.1:57201
+1692285512702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "57202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hplis\\AppData\\Local\\Temp\\rust_mozprofileBFltkX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692285512986	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692285513070	Marionette	INFO	Listening on port 57209
+WebDriver BiDi listening on ws://127.0.0.1:57202
+Read port: 57209
+1692285513250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57202/devtools/browser/57329648-2e84-417c-912b-f466bcaf8f3b
+[Parent 34140, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13828, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692285578347	Marionette	INFO	Stopped listening on port 57209
+Dynamically enable window occlusion 1
+[Parent 34140, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13828, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 34140, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13828, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 34140, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13828, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
